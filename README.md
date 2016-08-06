@@ -67,8 +67,8 @@ _Task Matrix_
     <tr>
     <td align="center">1401700<!--MOCOY,JEFFREY--></td>
     <td align="center">:hourglass:</td>
-    <td align="center">:hourglass:</td>
-    <td align="center">:hourglass:</td>
+    <td align="center">:white_check_mark:</td>
+    <td align="center">:white_check_mark:</td>
     <td align="center">:hourglass:</td>
     <td align="center">:hourglass:</td>
     </tr>    
