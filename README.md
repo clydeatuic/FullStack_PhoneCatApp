@@ -30,7 +30,9 @@ _Task_
 
 _Submission Details: Deliverables_
 
- * Create new repo ```FullStack_PhoneCatApp```. 
- * Include a schema diagram of your phonecat database
- * Include a DDL Create SQL Script ```phonecatapp.sql```
+ * Create new repo ```FullStack_PhoneCatApp```.
+ * Push all your fullstack phonecat app files.
+ * Include a schema diagram of your phonecat database.
+ * Include a DDL Create SQL Script ```phonecatapp.sql``` (if you decide to use NoSQL Database such as CouchDB, Cassandra, MonggoDB, etc. that is still accepted).
  * Using your new repo _README_ markdown file ```README.md```, briefly discuss the concept of your PhoneCat application full stack development. This includes front-end and back-end tools that support your development. And lastly, discuss the highlights of the development such as ```MVC and SQL scripts``` and the like.
+ * Deadline of submission: August 14, 2016.
